@@ -1,0 +1,31 @@
+.Main{
+    background-color:rgb(7, 148, 66);
+    min-height:fit-content;
+}
+.sub-main{
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    padding: 100px 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub-main p{
+    font-size: 20px;
+    margin-top: -20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer{
+    background-color: #000;
+    padding: 20px 0;
+}
+.sub-footer{
+    color: #fff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.sub-footer2{
+    color: #fff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: right;
+    margin-top: -20px;
+}
